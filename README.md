@@ -36,12 +36,13 @@ Welcome to my GitHub profile! 😄 Feel free to explore my repositories and proj
 Here are some of the languages and technologies I work with:
 
 <p align="left">
-  <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" alt="C++" width="40" height="40"/>
-  <img src="https://img.icons8.com/color/48/000000/python.png" alt="Python" width="40" height="40"/>
-  <img src="https://img.icons8.com/color/48/000000/mysql-logo.png" alt="MySQL" width="40" height="40"/>
-  <img src="https://img.icons8.com/color/48/000000/html-5.png" alt="HTML" width="40" height="40"/>
-  <img src="https://img.icons8.com/color/48/000000/css3.png" alt="CSS" width="40" height="40"/>
-  <img src="https://img.icons8.com/color/48/000000/javascript.png" alt="JavaScript" width="40" height="40"/>
+  <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" alt="C++" width="40" height="40"/>  &nbsp  &nbsp  &nbsp 
+  <img src="https://img.icons8.com/color/48/000000/python.png" alt="Python" width="40" height="40"/> &nbsp  &nbsp  &nbsp 
+  <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" alt="Java" width="40" height="40"/> &nbsp  &nbsp  &nbsp 
+  <img src="https://img.icons8.com/color/48/000000/mysql-logo.png" alt="MySQL" width="40" height="40"/>&nbsp  &nbsp  &nbsp 
+  <img src="https://img.icons8.com/color/48/000000/html-5.png" alt="HTML" width="40" height="40"/>&nbsp  &nbsp  &nbsp 
+  <img src="https://img.icons8.com/color/48/000000/css3.png" alt="CSS" width="40" height="40"/>&nbsp  &nbsp  &nbsp 
+  <img src="https://img.icons8.com/color/48/000000/javascript.png" alt="JavaScript" width="40" height="40"/>&nbsp  &nbsp  &nbsp 
   <img src="https://img.icons8.com/color/48/000000/php.png" alt="PHP" width="40" height="40"/>
 </p>
 
@@ -53,10 +54,10 @@ You can find me on different platforms. Feel free to connect and say hi!
 <p align="left">
   <a href="https://www.youtube.com/c/RushikeshSuryawanshi">
     <img src="https://img.icons8.com/color/48/000000/youtube-play.png" alt="YouTube" width="40" height="40"/>
-  </a>
+  </a>&nbsp  &nbsp  &nbsp 
   <a href="https://www.linkedin.com/in/rushikesh-surywanshi/">
     <img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn" width="40" height="40"/>
-  </a>
+  </a>&nbsp  &nbsp  &nbsp 
   <a href="[https://www.instagram.com/yourusername](https://www.instagram.com/thenameisrushi07/)">
     <img src="https://img.icons8.com/color/48/000000/instagram-new.png" alt="Instagram" width="40" height="40"/>
   </a>
