@@ -29,9 +29,7 @@ Welcome to my GitHub profile! 😄 Feel free to explore my repositories and proj
 - 🌱 I’m also diving deep into various technologies, including web development tools and data analysis techniques.
 - 👯 I’m looking to collaborate on exciting projects that challenge me and allow me to learn and grow.
 - 🤔 I’m always open to help and guidance from the community, whether it's coding-related or tech discussions.
-- 💬 Ask me about programming, technology, or anything you're curious about!
 - 📫 You can reach me through email at [rushikeshsurywanshi007@gmail.com](mailto:rushikeshsurywanshi007@gmail.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/rushikesh-surywanshi/).
-- 😄 Pronouns: [He/Him]
 
 ### Languages and Technologies
 
